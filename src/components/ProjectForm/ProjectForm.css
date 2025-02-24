@@ -144,21 +144,18 @@
 }
 
 .modal_btn {
-  /* border: 1px solid var(--color-pink); */
   border: 1px solid var(--text-black);
+  color: var(--color-pink);
   padding: 0.5em;
   font-size: 16px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
   transition: all 0.3s ease;
-  color: var(--color-pink);
   z-index: 1;
 }
 
 .modal_btn:hover {
-  /* transform: translate(-10px, -10px);
-  box-shadow: 5px 5px var(--color-pink); */
   color: var(--text-cream);
 }
 

@@ -7,7 +7,6 @@ import "./ProjectForm.css";
 
 const ProjectForm = ({ ...props }) => {
   const {
-    id,
     title,
     slogan,
     type,
@@ -41,7 +40,7 @@ const ProjectForm = ({ ...props }) => {
     };
   }, []);
 
-  const pointText = (title, id) => {
+  const pointText = (title) => {
     const point = [
       { chars: ["H", "L"], color: "#88dbff" },
       { chars: ["R"], color: "#f0763c" },
