@@ -69,7 +69,7 @@ const ProjectForm = ({ ...props }) => {
     <div ref={backgroundRef} className="project_section" {...props}>
       <div className={`project_inner ${type === "reverse" ? "reverse" : ""}`}>
         <div className="project_info">
-          <h4>{pointText(title, id)}</h4>
+          <h4>{pointText(title)}</h4>
           <h5 className="project_slogan">"{slogan}"</h5>
           <div className="project_description">
             <p> {description}</p>

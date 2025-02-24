@@ -1,5 +1,4 @@
 import SubTitle from "./../../components/SubTitle/SubTitle";
-import DotNavigation from "./../../components/DotNavigation/DotNavigation";
 import { useState } from "react";
 import TabContent from "../../components/TabContent/TabContent";
 import "./SkillsPage.css";
