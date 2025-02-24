@@ -20,7 +20,7 @@ const ProjectsData = [
       "MongoDB",
       "Mongoose",
     ],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343195320804180000/image.png?ex=67bc639f&is=67bb121f&hm=40d466e7ab8ec06c8c96b4f9656e50bb5beee4d1401fae53d0fff168d8bd9ae1&",
+    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343195320804180000/image.png?ex=67bdb51f&is=67bc639f&hm=362900ad1391976de35bb01d0234ba277cd77edee2b9439bf366f93876675640&",
     git: "https://github.com/hyun-june/Nodejs-TeamProject2-3",
     site: "https://healthylife-2024.netlify.app/",
     figma:
@@ -44,7 +44,7 @@ const ProjectsData = [
       "Youtube data api v3",
       "Spotify API",
     ],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201063804604456/image.png?ex=67bc68f9&is=67bb1779&hm=d3718c8239e5f77bc3ff882f14907d6871016acccbb25f50f0136d0d5e368ec7&",
+    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201063804604456/image.png?ex=67bdba79&is=67bc68f9&hm=28936d61359968e97474bf6d0e1b62538207df3a8e1c3b07c457ac0bad231800&",
     git: "https://github.com/hyun-june/react-study-teamProject-Radion",
     site: "https://react-teamproject-radion.netlify.app/",
     figma:
@@ -58,7 +58,7 @@ const ProjectsData = [
     사용자는 현재 위치 또는 특정 장소의 날씨를 쉽게 확인할 수 있어, 안전하고 효율적인 계획을 세울 수 있습니다.
     또한, 지도와 날씨 정보를 하나의 플랫폼에서 제공하여 사용자 경험을 극대화했습니다.`,
     skills: ["Javascript", "KakaoMap API", "OpenWeather API", "Web Speech API"],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201477497192550/image.png?ex=67bc695b&is=67bb17db&hm=df5b3c65badea7148868e2a1ee446f94ae89fd5ef94bdcee8577915e51c000f0&",
+    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201477497192550/image.png?ex=67bd121b&is=67bbc09b&hm=a05d031c72e1a75c6505a78e46a917c81a08074994e5bd85de5bb2fd99ebfd32&",
     git: "https://github.com/jaeyoung99-lee/CodingSister_JS_TeamProject",
     site: "https://codingsister-js-teamproject.netlify.app/",
     figma:
