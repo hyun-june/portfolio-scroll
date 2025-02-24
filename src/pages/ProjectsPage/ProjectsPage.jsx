@@ -20,7 +20,7 @@ const ProjectsData = [
       "MongoDB",
       "Mongoose",
     ],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343195320804180000/image.png?ex=67bdb51f&is=67bc639f&hm=362900ad1391976de35bb01d0234ba277cd77edee2b9439bf366f93876675640&",
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407571/image_wvzfdo.png",
     git: "https://github.com/hyun-june/Nodejs-TeamProject2-3",
     site: "https://healthylife-2024.netlify.app/",
     figma:
@@ -44,7 +44,7 @@ const ProjectsData = [
       "Youtube data api v3",
       "Spotify API",
     ],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201063804604456/image.png?ex=67bdba79&is=67bc68f9&hm=28936d61359968e97474bf6d0e1b62538207df3a8e1c3b07c457ac0bad231800&",
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407580/image_fuqhlr.png",
     git: "https://github.com/hyun-june/react-study-teamProject-Radion",
     site: "https://react-teamproject-radion.netlify.app/",
     figma:
@@ -58,7 +58,7 @@ const ProjectsData = [
     사용자는 현재 위치 또는 특정 장소의 날씨를 쉽게 확인할 수 있어, 안전하고 효율적인 계획을 세울 수 있습니다.
     또한, 지도와 날씨 정보를 하나의 플랫폼에서 제공하여 사용자 경험을 극대화했습니다.`,
     skills: ["Javascript", "KakaoMap API", "OpenWeather API", "Web Speech API"],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201477497192550/image.png?ex=67bd121b&is=67bbc09b&hm=a05d031c72e1a75c6505a78e46a917c81a08074994e5bd85de5bb2fd99ebfd32&",
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407652/image_widys5.png",
     git: "https://github.com/jaeyoung99-lee/CodingSister_JS_TeamProject",
     site: "https://codingsister-js-teamproject.netlify.app/",
     figma:
@@ -72,22 +72,29 @@ const CardsData = [
     title: "슈팅 게임",
     description: "자바스크립트 캔버스를 이용한 슈팅게임입니다.",
     skills: ["Javascript", "Canvas"],
-    img: "https://cdn.discordapp.com/attachments/1307615910453973048/1342859562914676766/image.png?ex=67bb2aec&is=67b9d96c&hm=cf12d747cc0f8f97913d7dbd73933de77edac7a93c86e903c7350dca36aa24f5&",
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407713/image_uekp4j.png",
     site: "https://javascript-shootinggame.netlify.app/",
-  },
-  {
-    title: "포트폴리오",
-    description: "Brittany Chiang의 포트폴리오를 참고하여 제작했습니다.",
-    skills: ["React"],
-    img: "https://cdn.discordapp.com/attachments/1343190471454756946/1343201793080823931/image.png?ex=67bc69a6&is=67bb1826&hm=e4710ca4a4dac0409809f003d589a2b7053d91f93b8865cf3f1651a50ef56a6b&",
-    site: "https://hyun-june.github.io/portfolio/",
   },
   {
     title: "쇼핑몰 페이지",
     description: "백엔드 개발자와 협업하여 실제 사용될 페이지를 개발 중입니다.",
     skills: ["React", "Php", "Laravel"],
-    img: "https://cdn.discordapp.com/attachments/1307615910453973048/1342860696958009384/image.png?ex=67bb2bfb&is=67b9da7b&hm=1bd301375598f170a34151b4c9aa357ddec72c4f8ee232f958600f13bbe0cf74&",
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407719/image_ytnlvx.png",
     site: "https://github.com/hyun-june/sellect-frontend_react",
+  },
+  {
+    title: "포트폴리오",
+    description: "Brittany Chiang의 포트폴리오를 참고하여 제작했습니다.",
+    skills: ["React"],
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407659/image_efjzlp.png",
+    site: "https://hyun-june.github.io/portfolio/",
+  },
+  {
+    title: "포트폴리오 스크롤",
+    description: "포트폴리오 원페이지 스크롤 버전입니다",
+    skills: ["React"],
+    img: "https://res.cloudinary.com/dkuk1vsqa/image/upload/v1740407809/image_x52jmu.png",
+    site: "https://hyun-june.github.io/portfolio-scroll/",
   },
 ];
 
