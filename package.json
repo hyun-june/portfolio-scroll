@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://hyun-june.github.io/portfolio",
+  "name": "portfolio-scroll",
+  "homepage": "https://hyun-june.github.io/portfolio-scroll",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
