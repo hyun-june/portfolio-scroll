@@ -53,7 +53,7 @@ function App() {
   }, []);
   return (
     <div>
-      <WelcomePage />
+      {/* <WelcomePage /> */}
 
       <div className="nav">
         <DotNavigation />

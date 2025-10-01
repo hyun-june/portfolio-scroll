@@ -51,7 +51,7 @@ body::-webkit-scrollbar-thumb {
 
 .nav {
   animation: fadeIn 2s forwards;
-  animation-delay: 5s;
+  /* animation-delay: 5s; */
   opacity: 0;
 }
 
